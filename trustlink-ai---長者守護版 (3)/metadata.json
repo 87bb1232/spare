@@ -1,0 +1,7 @@
+{
+  "name": "TrustLink AI - 長者守護版",
+  "description": "專為長者設計的智能防騙助手。簡單易用，具備緊急求助、電話防騙分析及家人聯繫功能。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
